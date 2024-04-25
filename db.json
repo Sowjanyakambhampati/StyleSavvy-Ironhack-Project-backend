@@ -1,5 +1,5 @@
 {
-  "clients": [
+  "reservations": [
     {
       "first_name": "Emily",
       "last_name": "Johnson",
@@ -9,96 +9,7 @@
       "appointment_time": "10:00 AM",
       "service": "Women's Haircut",
       "price": "€50.00"
-    },
-    {
-      "first_name": "Michael",
-      "last_name": "Smith",
-      "phone_number": "(234) 567-8901",
-      "email": "michael.smith@example.com",
-      "appointment_date": "2024-04-21",
-      "appointment_time": "11:30 AM",
-      "service": "Gel Manicure",
-      "price": "€35.00"
-    },
-    {
-      "first_name": "Sophia",
-      "last_name": "Williams",
-      "phone_number": "(345) 678-9012",
-      "email": "sophia.williams@example.com",
-      "appointment_date": "2024-04-22",
-      "appointment_time": "2:00 PM",
-      "service": "Express Facial",
-      "price": "€50.00"
-    },
-    {
-      "first_name": "Daniel",
-      "last_name": "Brown",
-      "phone_number": "(456) 789-0123",
-      "email": "daniel.brown@example.com",
-      "appointment_date": "2024-04-23",
-      "appointment_time": "3:30 PM",
-      "service": "Scalp Treatment",
-      "price": "€50.00"
-    },
-    {
-      "first_name": "Olivia",
-      "last_name": "Jones",
-      "phone_number": "(567) 890-1234",
-      "email": "olivia.jones@example.com",
-      "appointment_date": "2024-04-24",
-      "appointment_time": "9:00 AM",
-      "service": "Relaxation Package",
-      "price": "€150.00"
-    },
-    {
-      "first_name": "Liam",
-      "last_name": "Davis",
-      "phone_number": "(678) 901-2345",
-      "email": "liam.davis@example.com",
-      "appointment_date": "2024-04-25",
-      "appointment_time": "1:00 PM",
-      "service": "Hair colour with Highlights",
-      "price": "€50.00"
-    },
-    {
-      "first_name": "Ava",
-      "last_name": "Miller",
-      "phone_number": "(789) 012-3456",
-      "email": "ava.miller@example.com",
-      "appointment_date": "2024-04-26",
-      "appointment_time": "10:30 AM",
-      "service": "Brazilian Wax",
-      "price": "€25.00"
-    },
-    {
-      "first_name": "Noah",
-      "last_name": "Wilson",
-      "phone_number": "(890) 123-4567",
-      "email": "noah.wilson@example.com",
-      "appointment_date": "2024-04-27",
-      "appointment_time": "12:00 PM",
-      "service": "Relaxation Package",
-      "price": "€150.00"
-    },
-    {
-      "first_name": "Emma",
-      "last_name": "Martinez",
-      "phone_number": "(901) 234-5678",
-      "email": "emma.martinez@example.com",
-      "appointment_date": "2024-04-28",
-      "appointment_time": "3:00 PM",
-      "service": "Intricate Nail Art",
-      "price": "€150.00"
-    },
-    {
-      "first_name": "William",
-      "last_name": "Garcia",
-      "phone_number": "(012) 345-6789",
-      "email": "william.garcia@example.com",
-      "appointment_date": "2024-04-29",
-      "appointment_time": "2:30 PM",
-      "service": "Pamper Me Package",
-      "price": "€200.00"
     }
+ 
   ]
 }

@@ -1,15 +1,5 @@
 {
   "reservations": [
-    {
-      "first_name": "Emily",
-      "last_name": "Johnson",
-      "phone_number": "(123) 456-7890",
-      "email": "emily.johnson@example.com",
-      "appointment_date": "2024-04-20",
-      "appointment_time": "10:00 AM",
-      "service": "Women's Haircut",
-      "price": "€50.00"
-    }
- 
+     
   ]
 }
